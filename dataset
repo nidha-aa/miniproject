@@ -1,0 +1,5 @@
+DATASETS :
+        Using datasets to train the model for Face Mask Detection model. To download the dataset -- 👉 Click here  https://www.kaggle.com/shantanu1118/face-mask-detection-dataset-with-4k-samples👈 (Dataset with 4,000 Images Sampels) 🌟File contain 2 Sub-Folder i.e. With_mask & Without_mask (each folder contain 2k samples of images).
+This is a balanced dataset containing faces with and without masks with a mean height of 283.68 and mean width of 278.77
+
+data
